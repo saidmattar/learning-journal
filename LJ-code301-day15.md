@@ -17,5 +17,6 @@ Deploying applications involves sending the application to Heroku using either g
 Buildpacks (Links to an external site.)Links to an external site. lie behind the slug compilation process. Buildpacks take your application, its dependencies, and the language runtime, and produce slugs.
 A slug (Links to an external site.)Links to an external site. is a bundle of your source, fetched dependencies, the language runtime, and compiled/generated output of the build system - ready for execution.
 Config vars (Links to an external site.)Links to an external site. contain customizable configuration data that can be changed independently of your source code. The configuration is exposed to a running application via environment variables.
-Add-ons (Links to an external site.)Links to an external site. are third party, specialized, value-added cloud services that can be easily attached to an application, extending its functionality.
+Add-ons (Links to an external site.)Links to an external site. are third party, specialized, value-added cloud services that can be easily attached to an application, extending its functionality.  
+
 A release (Links to an external site.)Links to an external site. is a combination of a slug (your application), config vars and add-ons. Heroku maintains an append-only ledger of releases you make.
