@@ -1,6 +1,6 @@
 # Said Abdou Mattar code fellows 301 coding journey..
 Day 15:
-Today I have learned abouut application deplayment.
+Today I have learned about applications deployment.
 Heroku lets you deploy, run and manage applications written in Ruby, Node.js, Java, Python, Clojure, Scala, Go and PHP.
 Dependency mechanisms vary across languages: in Ruby you use a Gemfile, in Python a requirements.txt, in Node.js a package.json, in Java a pom.xml and so on.
 The source code for your application, together with the dependency file, should provide enough information for the Heroku platform to build your application, to produce something that can be executed.
